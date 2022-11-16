@@ -33,7 +33,7 @@ This is just the tutorial of how to successfully run the code that Phil taught o
 - It may take some time to run it, depending on your computer.
 - Here's my result
 
-1)![image](https://user-images.githubusercontent.com/64890777/202291874-83fafd29-60bf-44a6-b5d9-f8630f01695a.png)
+![image](https://user-images.githubusercontent.com/64890777/202291874-83fafd29-60bf-44a6-b5d9-f8630f01695a.png)
 - You can observe that the rewards will end up bigger than the beginning
 - Here's another result (I forget to screenshot it)
 - 
