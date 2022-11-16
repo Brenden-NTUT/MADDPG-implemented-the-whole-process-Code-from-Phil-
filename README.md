@@ -16,5 +16,12 @@ This is just the tutorial of how to successfully run the code that Phil taught o
    - `pip uninstall python` and `pip install python==3.5.4` As Phil said in the video, the python version won't affect the result. However, if you don't want to put any risk, I suggested just downloading the same version in dependencies.
 
 # Code Combination
-- Phil provided his code on github [thub.com/philtabor/Multi-Agent-Deep-Deterministic-Policy-Gradients](https://github.com/philtabor/Multi-Agent-Deep-Deterministic-Policy-Gradients) 
+- Phil provided his code on GitHub [thub.com/philtabor/Multi-Agent-Deep-Deterministic-Policy-Gradients](https://github.com/philtabor/Multi-Agent-Deep-Deterministic-Policy-Gradients) 
 - `vim do.py` Open a new .py file, again, the file name can be named by yourself
+- I suggest copying all .py files code into one file, just follow what Phil did in the video.
+- Phil's code which was provided in GitHub, are all been corrected, no need to change it. 
+
+# Testing
+- After finishing combining the code, we should start running it. But there's something we need to do first.
+- ` mkdir tmp` , `mkdir tmp/maddpg`, `mkdir tmp/maddpg/simple_adversary`, `mkdir tmp/maddpg/simple_adversary/agent_0_actor` These commands are used to create folders that can help avoid saving point errors.
+- 
