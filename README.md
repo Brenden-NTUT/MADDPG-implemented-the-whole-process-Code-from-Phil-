@@ -35,7 +35,7 @@ This is just the tutorial of how to successfully run the code that Phil taught o
 - Here's my result
 
 ![image](https://user-images.githubusercontent.com/64890777/202291874-83fafd29-60bf-44a6-b5d9-f8630f01695a.png)
-- You can observe that the rewards will end up bigger than the beginning
+- You can observe that the rewards will end up bigger than the beginning, and it's the same result as Phil's
 - Here's another result (I forget to screenshot it)
 - 
 episode 500 average score -187.2
