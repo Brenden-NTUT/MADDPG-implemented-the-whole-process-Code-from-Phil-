@@ -29,6 +29,7 @@ This is just the tutorial of how to successfully run the code that Phil taught o
 - Install Torch 1.4.0 in the ANACONDA environment, and look for the file  _C.lib_
 - Copy it to the `multiagent-particle-envs\maddpg\Lib\site-packages` folder. The reason to do this is that somehow ANACONDA will help install the complete package for torch 1.4.0, and the package downloaded from the official PyTorch website missing the _C.lib_ file.
 - I also found out some people's packages downloaded from the official PyTorch website including the _C.lib_ file, but the location of it isn't able to let the code import. So ypu need to find the file and put it into the right path.
+- Or you can download  _C.lib_ file from the attached.
 - `python do.py` If you all set, you can start running the code!
 - It may take some time to run it, depending on your computer.
 - Here's my result
