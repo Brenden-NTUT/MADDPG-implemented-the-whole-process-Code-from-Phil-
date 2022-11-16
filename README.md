@@ -36,5 +36,93 @@ This is just the tutorial of how to successfully run the code that Phil taught o
 1)![image](https://user-images.githubusercontent.com/64890777/202282074-21fa422c-6aad-41d7-ba8e-c829506088f5.png)
 2)![image](https://user-images.githubusercontent.com/64890777/202282181-0d8ba99b-c835-4c86-b321-fc07a35a024b.png)
 - You can observe that the rewards will end up bigger than the beginning
+- Here's another result (I forget to screenshot it)
+- 
+episode 500 average score -187.2
+episode 1000 average score -185.9
+episode 1500 average score -192.5
+episode 2000 average score -189.3
+episode 2500 average score -185.3
+episode 3000 average score -175.1
+episode 3500 average score -187.3
+episode 4000 average score -200.3
+episode 4500 average score -190.2
+episode 5000 average score -108.9
+episode 5500 average score -118.9
+episode 6000 average score -109.6
+episode 6500 average score -106.5
+episode 7000 average score -105.1
+episode 7500 average score -110.9
+episode 8000 average score -106.6
+episode 8500 average score -113.5
+episode 9000 average score -98.7
+episode 9500 average score -106.2
+episode 10000 average score -105.6
+episode 10500 average score -108.2
+episode 11000 average score -103.3
+episode 11500 average score -92.9
+episode 12000 average score -99.0
+episode 12500 average score -95.4
+episode 13000 average score -100.1
+episode 13500 average score -117.5
+episode 14000 average score -127.3
+episode 14500 average score -127.7
+episode 15000 average score -127.3
+episode 15500 average score -123.5
+episode 16000 average score -133.5
+episode 16500 average score -123.8
+episode 17000 average score -113.1
+episode 17500 average score -105.9
+episode 18000 average score -98.1
+episode 18500 average score -98.1
+episode 19000 average score -109.3
+episode 19500 average score -96.1
+episode 20000 average score -101.4
+episode 20500 average score -117.0
+episode 21000 average score -106.3
+episode 21500 average score -109.1
+episode 22000 average score -110.5
+episode 22500 average score -104.5
+episode 23000 average score -113.8
+episode 23500 average score -113.1
+episode 24000 average score -105.2
+episode 24500 average score -104.0
+episode 25000 average score -87.1
+episode 25500 average score -109.6
+episode 26000 average score -120.2
+episode 26500 average score -110.6
+episode 27000 average score -118.7
+episode 27500 average score -101.9
+episode 28000 average score -107.6
+episode 28500 average score -109.9
+episode 29000 average score -61.9
+episode 29500 average score -56.2
+episode 30000 average score -41.9
+episode 30500 average score -53.7
+episode 31000 average score -50.0
+episode 31500 average score -48.7
+episode 32000 average score -43.4
+episode 32500 average score -47.1
+episode 33000 average score -45.4
+episode 33500 average score -48.8
+episode 34000 average score -39.2
+episode 34500 average score -45.2
+episode 35000 average score -48.8
+episode 35500 average score -41.1
+episode 36000 average score -38.9
+episode 36500 average score -44.7
+episode 37000 average score -38.1
+episode 37500 average score -41.0
+episode 38000 average score -50.9
+episode 38500 average score -43.9
+episode 39000 average score -34.4
+episode 39500 average score -46.1
+episode 40000 average score -48.0
+episode 40500 average score -48.2
+episode 41000 average score -6.8
+episode 41500 average score -2.6
+episode 42000 average score -1.2
+... saving checkpoint ...
 
+- This is better than the previous result
 
