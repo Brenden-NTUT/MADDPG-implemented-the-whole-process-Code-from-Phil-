@@ -31,10 +31,9 @@ This is just the tutorial of how to successfully run the code that Phil taught o
 - I also found out some people's packages downloaded from the official PyTorch website including the _C.lib_ file, but the location of it isn't able to let the code import. So ypu need to find the file and put it into the right path.
 - `python do.py` If you all set, you can start running the code!
 - It may take some time to run it, depending on your computer.
-- Here's my result (1)
+- Here's my result
 
-1)![image](https://user-images.githubusercontent.com/64890777/202282074-21fa422c-6aad-41d7-ba8e-c829506088f5.png)
-2)![image](https://user-images.githubusercontent.com/64890777/202282181-0d8ba99b-c835-4c86-b321-fc07a35a024b.png)
+1)![image](https://user-images.githubusercontent.com/64890777/202291874-83fafd29-60bf-44a6-b5d9-f8630f01695a.png)
 - You can observe that the rewards will end up bigger than the beginning
 - Here's another result (I forget to screenshot it)
 - 
@@ -124,5 +123,5 @@ episode 41500 average score -2.6
 episode 42000 average score -1.2
 ... saving checkpoint ...
 
-- This is better than the previous result
+
 
