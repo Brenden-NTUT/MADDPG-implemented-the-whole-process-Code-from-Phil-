@@ -28,7 +28,13 @@ This is just the tutorial of how to successfully run the code that Phil taught o
 - The way I solved this error, is to download ANACONDA(https://docs.anaconda.com/anaconda/install/)
 - Install Torch 1.4.0 in the ANACONDA environment, and look for the file  _C.lib_
 - Copy it to the `multiagent-particle-envs\maddpg\Lib\site-packages` folder. The reason to do this is that somehow ANACONDA will help install the complete package for torch 1.4.0, and the package downloaded from the official PyTorch website missing the _C.lib_ file.
-- I also found out some people's packages downloaded from the official PyTorch website including the _C.lib_ file, but the location of it isn't able to let the code import.
+- I also found out some people's packages downloaded from the official PyTorch website including the _C.lib_ file, but the location of it isn't able to let the code import. So ypu need to find the file and put it into the right path.
 - `python do.py` If you all set, you can start running the code!
 - It may take some time to run it, depending on your computer.
-- 
+- Here's my result (1)
+
+1)![image](https://user-images.githubusercontent.com/64890777/202282074-21fa422c-6aad-41d7-ba8e-c829506088f5.png)
+2)![image](https://user-images.githubusercontent.com/64890777/202282181-0d8ba99b-c835-4c86-b321-fc07a35a024b.png)
+- You can observe that the rewards will end up bigger than the beginning
+
+
