@@ -23,5 +23,10 @@ This is just the tutorial of how to successfully run the code that Phil taught o
 
 # Testing
 - After finishing combining the code, we should start running it. But there's something we need to do first.
-- ` mkdir tmp` , `mkdir tmp/maddpg`, `mkdir tmp/maddpg/simple_adversary`, `mkdir tmp/maddpg/simple_adversary/agent_0_actor` These commands are used to create folders that can help avoid saving point errors.
-- 
+- ` mkdir tmp` , `mkdir tmp/maddpg`, `mkdir tmp/maddpg/simple_adversary`, `mkdir tmp/maddpg/simple_adversary/agent_0_actor` These commands are used to create folders that can help avoid saving point errors. 
+- If you faced the error `from torch._C import * (ImportError: DLL load failed: The specified module could not be found.`
+- The way I solved this error, is to download ANACONDA(https://docs.anaconda.com/anaconda/install/)
+- Install Torch 1.4.0 in the ANACONDA environment, and look for the file  _C.lib_
+- Copy it to the `multiagent-particle-envs\maddpg\Lib\site-packages` folder.
+- `python do.py` If you all set, you can start running the code!
+- It may took some time running it, 
