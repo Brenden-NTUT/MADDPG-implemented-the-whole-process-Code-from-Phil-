@@ -18,7 +18,7 @@ This is just the tutorial of how to successfully run the code that Phil taught o
 # Code Combination
 - Phil provided his code on GitHub [thub.com/philtabor/Multi-Agent-Deep-Deterministic-Policy-Gradients](https://github.com/philtabor/Multi-Agent-Deep-Deterministic-Policy-Gradients) 
 - `vim do.py` Open a new .py file, again, the file name can be named by yourself
-- I suggest copying all .py files code into one file, just follow what Phil did in the video.
+- I suggest copying all .py files code into one file, just follow Phil's code combination in the video.
 - Phil's code which was provided in GitHub, are all been corrected, no need to change it. 
 
 # Testing
@@ -27,6 +27,8 @@ This is just the tutorial of how to successfully run the code that Phil taught o
 - If you faced the error `from torch._C import * (ImportError: DLL load failed: The specified module could not be found.`
 - The way I solved this error, is to download ANACONDA(https://docs.anaconda.com/anaconda/install/)
 - Install Torch 1.4.0 in the ANACONDA environment, and look for the file  _C.lib_
-- Copy it to the `multiagent-particle-envs\maddpg\Lib\site-packages` folder.
+- Copy it to the `multiagent-particle-envs\maddpg\Lib\site-packages` folder. The reason to do this is that somehow ANACONDA will help install the complete package for torch 1.4.0, and the package downloaded from the official PyTorch website missing the _C.lib_ file.
+- I also found out some people's packages downloaded from the official PyTorch website including the _C.lib_ file, but the location of it isn't able to let the code import.
 - `python do.py` If you all set, you can start running the code!
-- It may took some time running it, 
+- It may take some time to run it, depending on your computer.
+- 
