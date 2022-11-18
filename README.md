@@ -39,4 +39,4 @@ This is just the tutorial of how to successfully run the code that Phil taught o
 ![image](https://user-images.githubusercontent.com/64890777/202645114-e8cc2785-6c81-46a0-b607-792355c087fa.png)
 ![maddpg](https://user-images.githubusercontent.com/64890777/202645142-fb4a34ac-55d4-4b49-b673-b90fcfc3dd4c.png)
 - You can observe that the rewards will end up bigger than the beginning, and it's the same result as Phil's
-- Here's another result (I forget to screenshot it)
+
